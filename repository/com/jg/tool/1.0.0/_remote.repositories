@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 27 10:12:12 CST 2019
+tool-1.0.0.pom>=
+tool-1.0.0.jar>=
